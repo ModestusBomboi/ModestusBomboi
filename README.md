@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/modestusbomboi">
-    <img src="https://img.shields.io/badge/LinkedIn-Modestus%20Bomboi-0A66C2?style=flat&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/modestusemmanuelsetordzi">
+    <img src="https://img.shields.io/badge/LinkedIn-Modestus%20Setordzi-0A66C2?style=flat&logo=linkedin"/>
   </a>
   <a href="https://github.com/modestusbomboi">
     <img src="https://img.shields.io/badge/GitHub-modestusbomboi-181717?style=flat&logo=github"/>
