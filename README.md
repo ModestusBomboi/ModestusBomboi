@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:6C63FF,100:00E5FF&height=120&section=header&text=Aaron%20Baidoo&fontSize=43&fontColor=E6E6E6&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:6C63FF,100:00E5FF&height=120&section=header&text=Modestus%20EmmanuelSetordzi&fontSize=43&fontColor=E6E6E6&animation=fadeIn"/>
 </p>
 
 <p align="center">
