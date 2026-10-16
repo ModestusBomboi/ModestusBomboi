@@ -1,7 +1,7 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+Modestus Emmanuel Setordzi+here!;Computer+Engineering;AI+Prompting;Soferware+Developer;UI/UX Design"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+Modestus+Emmanuel+Setordzi+here!;Computer+Engineering;AI+Prompting;Soferware+Developer;UI/UX+Design"/>
 </p>
 
 <p align="center">
